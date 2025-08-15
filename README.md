@@ -27,7 +27,7 @@ cd <your-project-directory>
 
 2. Build and start the Docker containers
 ```bash
-docker-compose up -d --build
+docker-compose up -d
 ```
 
 3. Install Laravel dependencies (if needed)
