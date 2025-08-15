@@ -1,9 +1,12 @@
-# Laravel 12 Hello World App
+# Laravel 12 Docker App
 
 A simple Laravel 12 application running in Docker with basic hello world endpoints.
 
 ## Screenshots
 
+<img width="1104" height="627" alt="Screen Shot 2025-08-15 at 11 00 48" src="https://github.com/user-attachments/assets/68353648-5168-4925-89f8-c6f3393cbdb3" />
+
+<img width="422" height="181" alt="Screen Shot 2025-08-15 at 11 01 02" src="https://github.com/user-attachments/assets/0bc62713-4655-467c-8501-343210194aa8" />
 
 
 ## Features
