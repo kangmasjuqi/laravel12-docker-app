@@ -8,7 +8,7 @@ Route::get('/', function () {
 
 Route::get('/hello', function () {
     return response()->json([
-        'message' => 'Bismillah..Alhamdulillah!!!...Hello World from Laravel 12!',
+        'message' => 'Bismillah...Hello World from Laravel 12!',
         'timestamp' => now(),
         'version' => app()->version()
     ]);
